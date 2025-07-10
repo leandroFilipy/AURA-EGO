@@ -1,0 +1,52 @@
+
+
+#cabecalho{
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+}
+#unico{
+    border: none;
+    background-color: transparent;
+    font-size: xx-large;
+    height: 2vw;
+    padding-top: 2vw;
+
+}
+
+.balls{
+    list-style: none;
+}
+
+#cabecalho h1{
+    color:rgb(44, 44, 248)
+}
+
+.titulo{
+    padding-left: 1vw;
+    padding-right: 1vw;
+    font-size: 6.1vw;
+}
+.tituloo{
+    text-align: center;
+}
+.pzinho{
+    display: flex;
+    padding-left: 4vw;
+    padding-right: 4vw;
+    font-size: 4vw;
+    flex-wrap: wrap;
+}
+.chamativo{
+    text-align: center;
+}
+
+.imagens{
+    margin: 0;
+}
+.celular{
+    width: 90vw;    
+}
+
+
+
